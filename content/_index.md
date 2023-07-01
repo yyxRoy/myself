@@ -218,16 +218,16 @@ sections:
           date_start: '2022-08-01'
           description: |2-
               CN115604026B: An Interactive Security Analysis Method and System for TCP/IP Layered Network ModelAnalysing
-        - title: 🐞CNVD/CVE
+        - title: 🐞CVE/CNVD
           company: Tsinghua University
           # company_logo: org-x
           date_start: '2022-08-01'
           # date_end: '2020-12-31'
           description: |2-
-              * 109/5/37 (total)
-              * routers: (2023): x/10
+              * 10/4 (total)
+              * routers: (2023): 10/x
               * clouds: (2023): n/3
-              * chips: (2023): 1/n
+              * chips: (2023): n/1
     design:
       columns: '2'
   - block: contact
