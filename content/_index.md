@@ -200,6 +200,7 @@ sections:
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
   - block: experience
+    id: misc
     content:
       title: Misc
       # Date format for experience
