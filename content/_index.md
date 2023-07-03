@@ -160,7 +160,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Activities
       filters:
         folders:
           - event
@@ -224,10 +224,10 @@ sections:
           date_start: '2022-08-01'
           # date_end: '2020-12-31'
           description: |2-
-              * 10/4 (total)
+              * 11/3 (total)
               * routers: (2023): 10/x
               * clouds: (2023): n/3
-              * chips: (2023): n/1
+              * chips: (2023): 1/n
     design:
       columns: '2'
   - block: contact
