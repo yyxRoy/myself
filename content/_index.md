@@ -217,7 +217,7 @@ sections:
           # company_logo: org-gc
           date_start: '2022-08-01'
           description: |2-
-              CN115604026B: An Interactive Security Analysis Method and System for TCP/IP Layered Network ModelAnalysing
+              * [CN115604026B: An Interactive Security Analysis Method and System for TCP/IP Layered Network ModelAnalysing](https://patents.google.com/patent/CN115604026B/zh). 2023.
         - title: 🐞CVE/CNVD
           company: Tsinghua University
           # company_logo: org-x
@@ -227,7 +227,7 @@ sections:
               * 11/3 (total)
               * routers: (2023): 10/x
               * clouds: (2023): n/3
-              * chips: (2023): 1/n
+              * chips: (2022): 1/n
     design:
       columns: '2'
   - block: contact
