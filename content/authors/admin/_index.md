@@ -75,5 +75,15 @@ email: 'yangyx22@mails.tsinghua.edu.cn'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Yuxiang Yang is currently a 1st-year Ph.D. student at the Department of Computer Science and Technology, Tsinghua University, advised by Professor Ke Xu. He belongs to the [Internet Architecture & Security Lab](http://thucsnet.com/). His research focuses on network security, particularly, protocol security, internet measurement, network & protocol fuzzing, network vulnerability discovery & attack. He has published many research papers at top security conferences like S&P, ~~Usenix Security, NDSS~~. He has obtained over 14 CVE/CNVD vulnerability numbers for a variety of influential protocol vulnerabilities, which have impacted over 20 home router vendors and cloud manufactures.
+Yuxiang Yang is currently a 1st-year Ph.D. student at the Department of Computer Science and Technology, Tsinghua University, advised by Professor Ke Xu. He belongs to the [Internet Architecture & Security Lab](http://thucsnet.com/). His research focuses on network security, particularly, protocol security, internet measurement, network & protocol fuzzing, network vulnerability discovery & attack. He has published many research papers at top security conferences like S&P, NDSS, ~~Usenix Security~~. He has obtained over 14 CVE/CNVD vulnerability numbers for a variety of influential protocol vulnerabilities, which have impacted over 20 home router vendors and cloud manufactures.
+
+### **Recent News** ###
+
+
+**[8/2023]** (Paper) our TCP Hijacking paper accepted by [NDSS 2024](https://www.ndss-symposium.org/ndss2024/). Congratulations to myself!
+
+**[3/2023]** (Paper) our TCP Chain Verification paper accepted by [Journal of Software](https://www.jos.org.cn/jos/article/abstract/mf024). Congratulations, Xuewei!
+
+**[9/2022]** (Paper) our WiFi MitM paper accepted by [IEEE S&P (Oakland) 2023](https://sp2023.ieee-security.org/program.html). Congratulations, Xuewei
+
 {style="text-align: justify;"}
