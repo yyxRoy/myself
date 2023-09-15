@@ -79,11 +79,14 @@ Yuxiang Yang is currently a 1st-year Ph.D. student at the Department of Computer
 
 ### **Recent News** ###
 
+**[09/2023]** (Pre & Prize) Presented our TCP hijacking work at the Open Week of CS Student Achievements and won the Longfor Scholarship 2023 (got five As from the judges (the only one))!
 
-**[8/2023]** (Paper) our TCP Hijacking paper accepted by [NDSS 2024](https://www.ndss-symposium.org/ndss2024/). Congratulations to myself!
+**[08/2023]** (Paper) our TCP Hijacking paper accepted by [NDSS 2024](https://www.ndss-symposium.org/ndss2024/). Congratulations to myself!
 
-**[3/2023]** (Paper) our TCP Chain Verification paper accepted by [Journal of Software](https://www.jos.org.cn/jos/article/abstract/mf024). Congratulations, Xuewei!
+**[05/2023]** (Pre) Presented our WiFi MitM paper at the IEEE S&P 2023 (on-line)!
 
-**[9/2022]** (Paper) our WiFi MitM paper accepted by [IEEE S&P (Oakland) 2023](https://sp2023.ieee-security.org/program.html). Congratulations, Xuewei
+**[03/2023]** (Paper) our TCP Chain Verification paper accepted by [Journal of Software](https://www.jos.org.cn/jos/article/abstract/mf024). Congratulations, Xuewei!
+
+**[09/2022]** (Paper) our WiFi MitM paper accepted by [IEEE S&P (Oakland) 2023](https://sp2023.ieee-security.org/program.html). Congratulations, Xuewei!
 
 {style="text-align: justify;"}

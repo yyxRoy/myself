@@ -228,6 +228,14 @@ sections:
               * routers: (2023): 10/x
               * clouds: (2023): n/3
               * chips: (2022): 1/n
+        - title: 🏅Awards
+          company: Tsinghua University
+          # company_logo: org-x
+          date_start: '2022-08-01'
+          # date_end: '2020-12-31'
+          description: |2-
+              * LongFor Scholarship. 2023.
+              * Outstanding Member of the Graduate Youth League Committee of the Department of Computer Science. 2023
     design:
       columns: '2'
   - block: contact
