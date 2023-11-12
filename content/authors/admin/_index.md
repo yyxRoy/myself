@@ -75,18 +75,20 @@ email: 'yangyx22@mails.tsinghua.edu.cn'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Yuxiang Yang is currently a 1st-year Ph.D. student at the Department of Computer Science and Technology, Tsinghua University, advised by Professor Ke Xu. He belongs to the [Internet Architecture & Security Lab](http://thucsnet.com/). His research focuses on network security, particularly, protocol security, internet measurement, network & protocol fuzzing, network vulnerability discovery & attack. He has published many research papers at top security conferences like S&P, NDSS, ~~Usenix Security~~. He has obtained over 14 CVE/CNVD vulnerability numbers for a variety of influential protocol vulnerabilities, which have impacted over 20 home router vendors and cloud manufactures.
+Yuxiang Yang is currently a 1st-year Ph.D. student at the Department of Computer Science and Technology, Tsinghua University, advised by Professor Ke Xu. He belongs to the [Internet Architecture &amp; Security Lab](http://thucsnet.com/). His research focuses on network security, particularly, protocol security, internet measurement, network & protocol fuzzing, network vulnerability discovery & attack. He has published many research papers at top security conferences like S&P, NDSS, ~~Usenix Security~~. He has obtained over 14 CVE/CNVD vulnerability numbers for a variety of influential protocol vulnerabilities, which have impacted over 20 home router vendors and cloud manufactures.
 
-### **Recent News** ###
+### **Recent News**
 
 **[09/2023]** (Pre & Prize) Presented our TCP hijacking work at the Open Week of CS Student Achievements and won the Longfor Scholarship 2023 (got five As from the judges (the only one))!
 
 **[08/2023]** (Paper) our TCP Hijacking paper accepted by [NDSS 2024](https://www.ndss-symposium.org/ndss2024/). Congratulations to myself!
 
-**[05/2023]** (Pre) Presented our WiFi MitM paper at the IEEE S&P 2023 (on-line)!
+**[07/2023]** (Paper) our WiFi Traffic Hijacking paper accepted by [ACM TURC 2023](https://dl.acm.org/doi/10.1145/3603165.3607441). Congratulations, Xuewei!
+
+**[05/2023]** (Pre) Presented our WiFi MitM paper at the [IEEE S&amp;P (Oakland) 2023](https://sp2023.ieee-security.org/program.html) (on-line)!
 
 **[03/2023]** (Paper) our TCP Chain Verification paper accepted by [Journal of Software](https://www.jos.org.cn/jos/article/abstract/mf024). Congratulations, Xuewei!
 
-**[09/2022]** (Paper) our WiFi MitM paper accepted by [IEEE S&P (Oakland) 2023](https://sp2023.ieee-security.org/program.html). Congratulations, Xuewei!
+**[09/2022]** (Paper) our WiFi MitM paper accepted by [IEEE S&amp;P (Oakland) 2023](https://sp2023.ieee-security.org/program.html). Congratulations, Xuewei!
 
 {style="text-align: justify;"}
